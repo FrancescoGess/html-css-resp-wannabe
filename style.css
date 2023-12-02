@@ -129,10 +129,7 @@ img {
 
 
  @media screen and ( max-width: 480px ) {
-    .container {
-        width: 400px;
-        align-items: center;
-    }
+
 
     .column-responsive {
         display: flex;
@@ -164,6 +161,10 @@ img {
 
 .col{
     margin-block: 20px;
+}
+
+h1, h2, h3{
+    text-align: center;
 }
 
 }
